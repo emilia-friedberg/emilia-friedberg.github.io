@@ -1,3 +1,9 @@
 body
 	{background-color: #d09a82;
 	}
+
+.bordered_and_padded
+	{
+	border: double black;
+	padding-left: 2em;
+	}
