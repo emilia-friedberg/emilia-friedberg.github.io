@@ -1,22 +1,23 @@
-body
-	{background-color: #d09a82;
+body {
+	background-color: #d09a82;
+	font-family: "Palatino", Palatino, serif;
 	}
 
-.bordered_and_padded
-	{border: double black;
+.section_headings{
+	border: double black;
 	padding-left: 2em;
 	}
 
-h1
-	{text-align: center
+#title {
+	text-align: center
 	}
 
-img
-	{display: block;
+img {
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	padding-bottom: 3em;}
 
-p
-	{padding-left: 3em;
-	padding-right: 3 em}
+p {
+	padding-left: 3em;
+	padding-right: 5em}
